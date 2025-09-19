@@ -3,7 +3,7 @@ This is a text based check list maker/edditor, for making fast and quick checkli
 
 Im runing arch with hyprland (btw). Here is my setup:
 in hyprland.conf: 
-  # toDo floting window
+
   windowrulev2 = float, title:^(toDo)$
   windowrulev2 = size 30% auto, title:^(toDo)$
   windowrulev2 = opacity 0.9, title:^(toDo)$
