@@ -13,3 +13,5 @@ in hyprland.conf:
   bind = $mainMod, T, exec, ghostty --title=toDo -e ./DIRECTORY-TO-THIS-CLONE/interactive-todo-tui.sh
 
 This runs the program with when SUPER and T is pressed and executes the file (dont forget to "chmod +x" your file) in a floting window
+
+It's gonna be looking for a file named "toDo.md" in your ~/ so eathe create this file or change the directory it's looking for by changing the .sh file!
